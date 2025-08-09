@@ -1,6 +1,3 @@
-**`README.md`**
-
-```markdown
 # Green Thumb 🌱  
 A simple gardening website built with **Node.js** and **Express** as part of a checkpoint project.  
 
@@ -25,8 +22,8 @@ A simple gardening website built with **Node.js** and **Express** as part of a c
 ---
 
 ## 📂 Project Structure
-```
 
+```markdown
 green-thumb/
 │
 ├── app.js                # Main server file
