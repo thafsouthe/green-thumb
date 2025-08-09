@@ -52,27 +52,20 @@ green-thumb/
 ## ⚙️ Installation & Usage
 
 1. **Clone or Download** the repository:
-   ```bash
+
    git clone <repo-link>
-````
 
 2. **Navigate into the project folder**:
 
-   ```bash
    cd green-thumb
-   ```
 
 3. **Install dependencies**:
 
-   ```bash
    npm install
-   ```
 
 4. **Start the server**:
 
-   ```bash
    npm run dev
-   ```
 
    Server will run on: `http://localhost:3000`
 
