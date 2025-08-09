@@ -94,4 +94,3 @@ the user will see a **"Sorry, we’re closed!"** page.
 **Thafsouthe HASSANI**
 Student — Express.js Checkpoint Project
 
-```# green-thumb
